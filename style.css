@@ -1,0 +1,55 @@
+body {
+    background-size:cover;
+}
+
+.heading {
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.note {
+    font-size:20px;
+    color:black;
+    font-family: 'Patrick Hand', cursive;
+    font-weight:1px;
+}
+
+.inputs {
+    font-size:20px;
+    font-family: 'Varela Round', sans-serif;
+}
+
+#status {
+    font-size:15px;
+    font-family: 'Varela Round', sans-serif;
+    margin-top:0px;
+}
+
+
+#start, #number_of_objects {
+    font-size:15px;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.copy_right_footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color:lightgreen;
+    color:black;
+    text-align: center;
+    line-height:3;
+    font-family: 'Varela Round', sans-serif;
+    font-size:17px;
+    font-weight:bolder;
+}
+
+canvas {
+    border:2px solid blue;
+    border-radius:10px;
+    margin-top:130px;
+    box-shadow: 5px 5px 5px blue;
+
+}
